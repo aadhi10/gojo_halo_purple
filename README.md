@@ -9,14 +9,7 @@
 
 A high-performance Computer Vision project that uses **AI Hand Tracking**, **Face Mesh**, and **Background Segmentation** to recreate Gojo Satoru's Cursed Techniques in real-time.
 
----
 
-## 📸 Demo
-
-<img src="C:\Users\adith\OneDrive\Documents\project1\gojo/demo.png" width="500">
-
-
----
 
 ## ⚡ Features
 
