@@ -1,4 +1,4 @@
-# 🤞 Ryōiki Tenkai: Infinite Void (Gojo Satoru FX)
+# 🤞 KYOSHIKI: MURASAKI : HALO PURPLE (Gojo Satoru FX)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv)
@@ -26,9 +26,6 @@ A high-performance Computer Vision project that uses **AI Hand Tracking**, **Fac
 * **👀 Six Eyes Mode**
     * **Face Mesh Integration:** Detects your irises in real-time.
     * **Glow Effect:** Adds an intense blue aura to your eyes when the technique is active.
-* **Domain Expansion: Infinite Void**
-    * **Background Removal:** Uses Selfie Segmentation to replace your room with a pitch-black void or custom background.
-    * **Screen Shake:** Procedural camera shake effects during high-energy moments.
 
 ---
 
